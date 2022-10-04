@@ -7,3 +7,6 @@ while (inicio <= 100) {
     console.log(inicio);
     inicio++ 
 }
+
+
+
