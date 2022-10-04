@@ -1,3 +1,3 @@
-let nombre = "Manel"; 
+ let nombre = "Manel"; 
 
 console.log ("Hola", nombre);
