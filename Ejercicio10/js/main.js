@@ -6,8 +6,8 @@ for(let i = 0; i < ventas; i++) {
 
     
 let tantasventas = parseInt(prompt('Por favor, introduzca tantas ventas por teclado como ...')); 
-   
-console.log (ventas + tantasventas); 
+let operacion = tantasventas   
+console.log (ventas + operacion); 
 }
 
  
